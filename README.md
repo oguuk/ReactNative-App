@@ -1,4 +1,4 @@
-# React를 사용해 제작한 App 
+# ReactNAtive를 사용해 제작한 App 
 토이 프로젝트
 
 * 1. 
